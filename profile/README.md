@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="https://raw.githubusercontent.com/Neo-Life/.github/refs/heads/main/img/neo-life.webp" alt="Neo-Life" width="900">
+  <img src="https://i0c.cc/r/g/Neo-Life/.github/refs/heads/main/img/141289718_p0 (1).png" alt="Neo-Life" width="900">
 </p>
 
 # Another [LandfillLand](https://github.com/landfillland) : Neo-Life
